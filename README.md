@@ -32,15 +32,6 @@ Medilink is a comprehensive medical assistance and diagnosis system designed to 
 ## Dataset
 - **NSL KDD Dataset**: The project utilizes the NSL-KDD dataset for training and evaluation. This dataset is a refined version of the widely-used KDD Cup 1999 dataset, specifically designed for intrusion detection research.
 
-## Installation and Usage
-1. Clone this repository to your local machine:
-    ```bash
-    git clone https://github.com/sukrithpvs/MediLink.git
-    ```
-2. Install the required dependencies listed in each feature's code.
-3. Run the respective Python scripts for each feature.
-4. Follow the prompts or input necessary information to utilize the features.
-
 ## Requirements
 - Python 3.x
 - TensorFlow
